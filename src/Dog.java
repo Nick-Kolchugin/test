@@ -17,9 +17,9 @@ public class Dog {
             System.out.println("woof");
         }
 
-        /*public void feed(Double amount) {
+        public void feed(Double amount) {
             weight = weight + amount;
-        }*/
+        }
 
         public void drink(Double amount) {
             weight = weight + amount;
